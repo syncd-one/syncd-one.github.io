@@ -1,0 +1,60 @@
+/* Basic Styling */
+
+body {
+    font-family: sans-serif; /* Choose a font matching your logo */
+    margin: 0;
+    background-color: #f8f8f8; /* Light background for contrast */
+  }
+  
+  header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header img {
+    height: 80px; 
+  }
+  
+  main {
+    padding: 40px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333; 
+    color: white;
+  }
+  
+  /* Trendy Touches */
+  
+  .hero {
+    background: linear-gradient(to bottom, #f8f8f8 0%, #333 100%); /* Black gradient adds trendy touch */
+    text-align: center;
+  }
+  
+  button.call-to-action {
+    background-color: #f8f8f8; /* Light background for better contrast */
+    color: #333; /* Dark text for better readability */
+    padding: 10px 20px;
+    border: 2px solid #333; /* Creates a trendy outlined button */
+    border-radius: 50px; /* Rounded corners for a modern look */
+    transition: all 0.3s ease-in-out; /* Adds a smooth hover effect */
+  }
+  
+  button.call-to-action:hover {
+    background-color: #333;
+    color: #f8f8f8;
+  }
+  
+  .cta h2 {
+    font-size: 2em; /* Increase heading size for impact */
+    font-weight: 300; /* Slightly lighter weight for a more modern feel */
+    margin-bottom: 20px;
+  }
+  
+  /* You can add more sections like features using the same format mentioned above*/
+  
+  
